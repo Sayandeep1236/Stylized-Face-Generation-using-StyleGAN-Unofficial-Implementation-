@@ -1,1 +1,1 @@
-The images generated using the StyleGAN. 256x256 resolution was not achieved due to lack of sufficient memory and GPUs.  
+The images generated using the StyleGAN. Proper 64x64 resolution was not achieved due to lack of computational memory and GPUs. Trained on an NVDIA GPU 4050. 
